@@ -2,7 +2,7 @@ txlcn 5.0 demo
 
 
 使用说明:
-0.测试demo默认使用eureka作为注册中心，也可以使用consul作为注册中心
+0.测试demo默认使用eureka作为注册中心，也可以使用consul作为注册中心，使用eureka的，直接运行springcloud项目中的eureka
 准备：安装mysql redis consul
 本人使用docker 直接安装，主要是简单，哈哈
 a)mysql 安装
